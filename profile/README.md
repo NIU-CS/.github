@@ -1,1 +1,3 @@
-# NIU Computer Science Information Engineering
+# National Ilan University - Computer Science Information Engineering
+
+All of our homework, slides, notes
